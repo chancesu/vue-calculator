@@ -20,7 +20,7 @@ export default {
   background: #aaa;
   border-bottom: 5px solid #bbb;
   border-radius: 14px;
-  font-family: clockicons, sans-serif;
+  font-family: verdana;
   font-size: 24px;
   text-align: right;
   line-height: 23px;
@@ -31,7 +31,7 @@ export default {
   background: #ddd;
   border-bottom: 5px solid #ccc;
   border-radius: 14px;
-  font-family: clockicons, sans-serif;
+  font-family: verdana;
   font-size: 34px;
   text-align: right;
   line-height: 33px;

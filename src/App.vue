@@ -27,16 +27,6 @@ body {
   text-align: center;
   color: #2c3e50;
 }
-@font-face {
-  font-family: clockicons;
-  src: url(../src/assets/clockicons.eot#iefix) format("embedded-opentype"),
-    url(../src/assets/clockicons.woff2) format("woff2"),
-    url(../src/assets/clockicons.woff) format("woff"),
-    url(../src/assets/clockicons.ttf) format("truetype"),
-    url(../src/assets/clockicons.svg) format("svg");
-  font-weight: 400;
-  font-style: normal;
-}
 font-style: normal;
 font-weight: 400;
 font-variant: normal;
