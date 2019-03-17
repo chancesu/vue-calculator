@@ -25,8 +25,6 @@ export default {
   components: {},
   methods: {
     enterHit(e) {
-      console.log(e.target.value);
-      console.log(isNaN(e.target.value));
       if (e.target.value == "=") {
         this.$store.commit("compute");
       } else if (isNaN(e.target.value)) {
